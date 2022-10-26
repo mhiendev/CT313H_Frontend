@@ -27,7 +27,7 @@
 
                 <button
                     class="btn btn-sm btn-success"
-                    @click="goToAddContact"
+                    @click="goToAddContact()"
                 >
                     <i class="fas fa-plus" /> Thêm mới
                 </button>
